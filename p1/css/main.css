@@ -1,6 +1,21 @@
 body {
 	background-color: #448642;
+	margin: 30px;
+}
+h1 {
+	font-size: 150px;
+	line-height: 10px;
+}
+h2 {
+	font-size: 25px;
+}
+p {
+	font-size: 20px;
 }
 a {
+	color: black;
+	text-decoration-style: dashed;
+}
+a:hover {
 	color: #E2642C;
 }
