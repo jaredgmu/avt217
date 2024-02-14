@@ -5,12 +5,21 @@ body {
 h1 {
 	font-size: 150px;
 	line-height: 10px;
+	font-family: "ff-ernestine-pro", serif;
+	font-weight: 700;
+	font-style: normal;
 }
 h2 {
 	font-size: 25px;
+	font-family: "ff-ernestine-pro", serif;
+	font-weight: 600;
+	font-style: normal;
 }
 p {
 	font-size: 20px;
+	font-family: "ff-ernestine-pro", serif;
+	font-weight: 400;
+	font-style: normal;
 }
 a {
 	color: black;
