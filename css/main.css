@@ -25,3 +25,7 @@ a {
 a:hover {
 	color: tomato;
 }
+
+a:active {
+	color: yellow;
+}
