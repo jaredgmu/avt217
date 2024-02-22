@@ -82,6 +82,6 @@ ol {
 #color {
 	color: aqua;
 }
-.direction {
-	-webkit-transform: rotate(180deg);
+aside {
+	transform: rotate(-180deg);
 }
