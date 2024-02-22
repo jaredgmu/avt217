@@ -1,31 +1,31 @@
 body {
-	background-color: royalblue;
+	background-color: #189BCC;
 	margin: 50px;
 }
 h2 {
-	color:white;
-	font-family: "futura-pt", sans-serif;
-	font-weight: 600;
+	color:black;
+	font-family: "century-gothic", sans-serif;
+	font-weight: 700;
 	font-style: normal;
 	font-size: 35px;
 }
 li {
-	color:white;
-	font-family: "futura-pt", sans-serif;
+	color:black;
+	font-family: "century-gothic", sans-serif;
 	font-weight: 600;
 	font-style: normal;
 	font-size: 20px;
 a {
-	color:white;
-	text-decoration-color: aqua;
-	font-family: "futura-pt", sans-serif;
+	color:black;
+	text-decoration-color: white;
+	font-family: "century-gothic", sans-serif;
 	font-weight: 600;
 	font-style: normal;
 }
 a:hover {
-	color: tomato;
+	color: #BECC41;
 }
 
 a:active {
-	color: yellow;
+	color: #EA213A;
 }
