@@ -2,6 +2,19 @@ body {
 	background-color: #189BCC;
 	margin: 50px;
 }
+header {
+	width: 75vw;
+	margin: 25px auto;
+}
+main {
+	width: 75vw;
+	margin: 25px auto;
+	display: flow-root;
+}
+.col {
+	width: 50%;
+	float: left;
+}
 h2 {
 	color:black;
 	font-family: "century-gothic", sans-serif;
@@ -28,4 +41,11 @@ a:hover {
 
 a:active {
 	color: #EA213A;
+}
+
+/***** media guearies ****/
+@media screen and (max-width: 861px) {
+	.col {
+		width: 100%;
+	}
 }

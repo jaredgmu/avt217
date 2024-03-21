@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body { margin: 0px; }
+.e9-1 {
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+	float: left;
+	opacity: .8;
+	margin: -10px;
+	border: 5px solid black;
+	transform: rotate(45deg);
+	transform: skew(25deg);
+	border-radius: 100%;
+}
