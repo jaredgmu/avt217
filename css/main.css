@@ -28,6 +28,7 @@ li {
 	font-weight: 600;
 	font-style: normal;
 	font-size: 20px;
+}
 a {
 	color:black;
 	text-decoration-color: white;
@@ -48,4 +49,7 @@ a:active {
 	.col {
 		width: 100%;
 	}
+}
+img {
+	max-width: 100%;
 }
